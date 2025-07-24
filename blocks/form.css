@@ -1,5 +1,6 @@
 .form {
-  max-width: 100%;
+  max-width: 385px;
+  width: 100%;
 }
 
 .form__label {
